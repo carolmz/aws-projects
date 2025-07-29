@@ -4,3 +4,4 @@ id,name,age,email
 3,Charlie,35.0,
 4,David,,david@example.com
 5,,40.0,eve@example.com
+6,Ema,21.0,ema@example.com
